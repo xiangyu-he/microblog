@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+venv/
+.env
+app.db
+microblog.log*
+
+# Unit test / coverage reports
+tmp/
